@@ -20,6 +20,17 @@ body{
     display: flex;
 }
 
+.video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+#presentacion{
+    text-align: center;
+    font-family: sans-serif;
+}
+
 .menu ul ul{
     display: none;
     position: relative;
